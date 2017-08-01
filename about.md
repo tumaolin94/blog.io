@@ -5,10 +5,8 @@ description: "SY->CS->LA "
 header-img: "img/green.jpg"
 ---
 
+<div align=center><img width="150" height="150" src="https://raw.githubusercontent.com/tumaolin94/tumaolin94.github.io/master/img/tu2.jpg"/></div>
 
-<center>
-![](https://raw.githubusercontent.com/tumaolin94/tumaolin94.github.io/master/img/tu2.jpg)
-</center>
 
 
 ### MYSELF
