@@ -9,7 +9,7 @@ header-img: "img/green.jpg"
 <center>
     <p><img src="img/tu2.jpg" align="center"></p>
 </center>
-![image](https://github.com/tumaolin94/tumaolin94.github.io/blob/master/img/tu2.jpg)
+![](https://github.com/tumaolin94/tumaolin94.github.io/blob/master/img/tu2.jpg)
 
 ### MYSELF
 
