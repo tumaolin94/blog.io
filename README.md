@@ -1,24 +1,14 @@
 ## 说明
 
-2016-02-29  更新 _config.yml 可用
 
-此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
+此博客 fork 自 陈素封[cnfeat](https://github.com/cnfeat/blog.io)，感谢。
 
-## 读立写生
+用于记录、分享本人的学习过程
 
-我是陈素封，博客：[cnfeat.com](cnfeat.com)
+## Introduction
 
-每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
+This blog fork from [cnfeat](https://github.com/cnfeat/blog.io), Thanks!
 
-现在研习 **认知写作学** 。
-
-## 坚信
-
-
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
-
+This page is used to record and share a process of my CS study.
 
 
