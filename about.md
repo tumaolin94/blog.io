@@ -20,7 +20,7 @@ Maolin Tu, Shenyang, China. Now living in LA.
 
 ### CONTACT
 
-- [English Blog：tumaolin94.github.io](https://tumaolin94.github.io)
+- [English Blog：tumaolin.com](https://tumaolin.com)
 
 - [中文博客：http://blog.csdn.net/tumaolin94](https://tumaolin94.github.io)
 
