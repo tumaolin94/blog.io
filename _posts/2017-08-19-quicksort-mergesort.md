@@ -1,12 +1,11 @@
 ---
-2	layout: post
-3	title: QuickSort and MergeSort in JAVA
-4	date: 2017-08-19
-5	categories: blog
-6	tags: [Data Struct, algorithm, Sort]
-7	description: 
-8	
-9	---
+layout: post
+title: QuickSort and MergeSort in JAVA
+date: 2017-08-19
+categories: blog
+tags: [Data Struct, algorithm, Sort]
+description: 	
+	---
 
 # QuickSort
 QuickSort is a very famous sort algorithm, `Arrays.sort` is realized by QuickSort.
