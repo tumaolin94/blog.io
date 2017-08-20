@@ -5,7 +5,8 @@ date: 2017-08-19
 categories: blog
 tags: [Data Struct, algorithm, Sort]
 description: 	
-	---
+
+---
 
 # QuickSort
 QuickSort is a very famous sort algorithm, `Arrays.sort` is realized by QuickSort.
@@ -105,4 +106,8 @@ QuickSort has two major deficiencies when compared to mergesort:
 and a detailed comparison is following
 (From WiKiPedia):
 
-![Sort](https://raw.githubusercontent.com/tumaolin94/tumaolin94.github.io/master/img/sort.jpg)
+name | Best | Average| Worst | Memory | Stable | 
+---- | ---  | ------ | ----- | ------ | ------ |
+QuickSort | nlogn | nlogn | n^2 | logn on average, worst n | Typical is no, but stable versions exist
+MergeSort |  nlogn | nlogn | nlogn | n | yes 
+
