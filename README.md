@@ -11,4 +11,11 @@ This blog fork from [cnfeat](https://github.com/cnfeat/blog.io), Thanks!
 
 This page is used to record and share a process of my CS study.
 
+标签颜色修改：
+clean-blog.css
+line 35
+a {
+  color: #B2DFEE;
+}
+
 
