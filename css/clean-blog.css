@@ -437,7 +437,7 @@ footer .copyright a:focus {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #2b79c3;
+  color: #b2dfee;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
