@@ -84,7 +84,7 @@ hr.small {
   background: rgba(221, 221, 221, 0.10);
 }
 .post-container a {
-  color: #2b79c3;
+  color: #b2dfee;
 }
 .post-container a:hover,
 .post-container a:focus {
@@ -301,7 +301,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #2b79c3;
+  color: #b2dfee;
 }
 .post-preview > a > .post-title {
   font-size: 21px;
@@ -328,7 +328,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #2b79c3;
+  color: #b2dfee;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
