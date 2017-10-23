@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic Use of Highcharts 
-date: 2017-09-22
+date: 2017-10-16
 categories: blog
 tags: [WEB, JavaScript]
 description: 
