@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "milestone"
+title: "projects"
 description: "My Own Projects"
 header-img: "img/zhihu.jpg"
 ---
@@ -38,7 +38,7 @@ Android.
 - Build	a	good-looking	Android	app	using	the	Android	SDK.
 
 # Blog Website with Python Django(ongoing)
-- [Demo](http://13.56.192.121:8000/blog/)
+- [Demo](http://ec2-13-56-192-121.us-west-1.compute.amazonaws.com:8000/blog/)
 - [Repository](https://github.com/tumaolin94/WebBlog)
 
 - This is a practise project from [Django: 1 Building a Blog](https://www.lynda.com/Django-tutorials/Django-1-Building-Blog/594453-2.html)
