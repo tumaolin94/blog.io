@@ -26,4 +26,5 @@ Maolin Tu, Shenyang, China. Now living in LA.
 - [LinkedIn: https://www.linkedin.com/in/maolin-tu-16575a146/](https://www.linkedin.com/in/maolin-tu-16575a146/)
 
 - [Email: tumaolin94@gmail](tumaolin94@gmail.com)
+
 - [Github: https://github.com/tumaolin94](https://github.com/tumaolin94)
