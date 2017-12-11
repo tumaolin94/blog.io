@@ -31,6 +31,9 @@ header-img: "img/zhihu.jpg"
 4. Implement Facebook share function Facebook API
 
 # Stock Search System with Android(ongoing)
+
+- [Introduction](http://tumaolin.com/blog/2017/12/10/app-intro/)
+- [Repository](https://github.com/tumaolin94/StockSystemWithAndroid)
 - Become	familiar	with	Android	Studio,	Android	App	development	and	Facebook	SDK	for	
 Android.
 - Add	social	networking	features	using	the	Facebook	SDK.
