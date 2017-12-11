@@ -30,7 +30,7 @@ header-img: "img/zhihu.jpg"
 3. use Highcharts to export several different styles of stock data.
 4. Implement Facebook share function Facebook API
 
-# Stock Search System with Android(ongoing)
+# Stock Search System with Android(completed)
 
 - [Introduction](http://tumaolin.com/blog/2017/12/10/app-intro/)
 - [Repository](https://github.com/tumaolin94/StockSystemWithAndroid)
